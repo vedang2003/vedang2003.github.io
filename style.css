@@ -99,6 +99,18 @@ body
       box-shadow: inset 5px 5px 8px #e60073,
                   inset -5px -5px 8px #ff3399;
 }
+#mode 
+{
+    width: 150px;
+    background: #fa7d34;
+    color: #fff;
+}
+
+#mode:hover 
+{
+      box-shadow: inset 5px 5px 8px #f55b01,
+                  inset -5px -5px 8px #fa7d34;
+}
     /*================= Heading Css =================*/
     h2
 
