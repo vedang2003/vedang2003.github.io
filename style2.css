@@ -111,7 +111,12 @@ body
       box-shadow: inset 5px 5px 8px #f55b01,
                   inset -5px -5px 8px #fa7d34;
 }
-
+@media screen and(min-width: 320px) and (max-width: 630px){
+    .container{
+        width:60%;
+    }
+    
+}
     /*================= Heading Css =================*/
     h2
 
